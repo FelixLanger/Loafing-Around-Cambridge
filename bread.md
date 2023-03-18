@@ -1,3 +1,6 @@
-| Name               | Type        | Appearance | Crust        | Crump              | Taste | Store                                                   | Price | Date       | Tester(s) | Pictures                         |
-|--------------------|-------------|------------|--------------|--------------------|-------|---------------------------------------------------------|-------|------------|-----------|----------------------------------|
-| Multi Cereal Large | whole wheat | dark round | firm crunchy | dense moist fluffy | 8.5   | [Maison Clement](https://goo.gl/maps/v6EYDUFxMnsong6w8) | £5    | 2023-03-01 | Felix     | ![](imgs/Multi-Cereal-Large.png) |
+# THE Cambridge Bread List
+
+| Name               | Type        | Appearance | Crust        | Crump               | Taste | Comments                 | Store                                                   | Price   | Date       | Tester(s) | Pictures                                                    |
+|--------------------|-------------|------------|--------------|---------------------|-------|--------------------------|---------------------------------------------------------|---------|------------|-----------|-------------------------------------------------------------|
+| Multi Cereal Large | whole wheat | dark round | firm crunchy | dense moist fluffy  | 8.5   |                          | [Maison Clement](https://goo.gl/maps/v6EYDUFxMnsong6w8) | £5      | 2023-03-01 | Felix     | ![Multi Cereal Maison Clement](imgs/Multi-Cereal-Large.png) |
+| Seeded Sourdough   | rye?        | big oval   | firm crunchy | fluffy spongy seedy | 7     | got dry and hard quickly | [Gail's](https://goo.gl/maps/X2kWVeMCyDNnotKG8)         | ~£6 (?) | 2023-03-08 | Paula     | ![Seeded Sourdough Gails](imgs/SeededSourdoughGails.png)    |
